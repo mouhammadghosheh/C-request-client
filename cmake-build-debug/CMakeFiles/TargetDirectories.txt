@@ -1,0 +1,3 @@
+/mnt/c/Users/mouha/CLionProjects/ex22/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/mouha/CLionProjects/ex22/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/mouha/CLionProjects/ex22/cmake-build-debug/CMakeFiles/ex22.dir

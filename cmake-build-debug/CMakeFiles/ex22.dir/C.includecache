@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/mouha/CLionProjects/ex22/client.c
+stdio.h
+/mnt/c/Users/mouha/CLionProjects/ex22/stdio.h
+stdlib.h
+/mnt/c/Users/mouha/CLionProjects/ex22/stdlib.h
+string.h
+/mnt/c/Users/mouha/CLionProjects/ex22/string.h
+netinet/in.h
+-
+unistd.h
+-
+netdb.h
+-
+

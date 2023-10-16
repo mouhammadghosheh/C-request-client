@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/ex22.dir/client.c.o  -o ex22 
